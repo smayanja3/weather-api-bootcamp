@@ -84,9 +84,3 @@ git clone https://github.com/smayanja3/weather-api-bootcamp.git
 4. Enter a city to view its current weather information! 🌤️🌎
 
 Thanks for checking out my project! 🌦️✨
-
----
-
-## 🔗 Links
-
-- **GitHub Repository:** [Current Weather App](https://github.com/smayanja3/weather-api-bootcamp.git)
